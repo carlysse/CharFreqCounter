@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libProgram2_CharFreqCounter.a CMakeFiles/Program2_CharFreqCounter.dir/library.c.o CMakeFiles/Program2_CharFreqCounter.dir/prog2.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libProgram2_CharFreqCounter.a

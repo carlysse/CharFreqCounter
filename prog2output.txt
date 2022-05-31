@@ -1,0 +1,31 @@
+Enter text to analyze:
+This is A Test To CouNt AlL oF THE ChaRacTers IN THIS SenTEnCE!!!
+
+       ~ R E S U L T S ~
+character frequency for: 'T' -- 7
+character frequency for: 'h' -- 2
+character frequency for: 'i' -- 2
+character frequency for: 's' -- 4
+character frequency for: ' ' -- 12
+character frequency for: 'A' -- 2
+character frequency for: 'e' -- 3
+character frequency for: 't' -- 2
+character frequency for: 'o' -- 3
+character frequency for: 'C' -- 3
+character frequency for: 'u' -- 1
+character frequency for: 'N' -- 2
+character frequency for: 'l' -- 1
+character frequency for: 'L' -- 1
+character frequency for: 'F' -- 1
+character frequency for: 'H' -- 2
+character frequency for: 'E' -- 3
+character frequency for: 'a' -- 2
+character frequency for: 'R' -- 1
+character frequency for: 'c' -- 1
+character frequency for: 'r' -- 1
+character frequency for: 'I' -- 2
+character frequency for: 'S' -- 2
+character frequency for: 'n' -- 2
+character frequency for: '!' -- 3
+
+Complete.
